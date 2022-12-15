@@ -1,11 +1,17 @@
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif">
-
 <h1 align="center">Hi 👋, I'm Zhu Yufan</h1>
 <h3 align="center">A Year 2 Computer Science Student in National University of Singapore</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yufannn077&label=Profile%20views&color=0e75b6&style=flat" alt="yufannn077" /> </p>
+
+- 🔭 I’m currently working on **My Personal Blog Website**
+
+- 🌱 I’m currently learning **AWS cloud computing**
 
 - 👯 I’m looking to collaborate on **small and interesting projects**
 
 - 📫 How to reach me **e0773591@u.nus.edu**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/yufan-zhu-36024a225/](https://www.linkedin.com/in/yufan-zhu-36024a225/)
 
 - ⚡ Fun fact **Working on benching 100KG**
 
