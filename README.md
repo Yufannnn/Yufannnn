@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Zhu Yufan</h1>
 <h3 align="center">A Year 2 Computer Science Student in National University of Singapore</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yufannn077&label=Profile%20views&color=0e75b6&style=flat" alt="yufannn077" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yufannn077&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
 - 👯 I’m looking to collaborate on **small and interesting projects**
 
