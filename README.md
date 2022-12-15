@@ -1,3 +1,5 @@
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif">
+
 <h1 align="center">Hi 👋, I'm Zhu Yufan</h1>
 <h3 align="center">A Year 2 Computer Science Student in National University of Singapore</h3>
 
