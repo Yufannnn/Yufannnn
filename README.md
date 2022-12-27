@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **My Personal Blog Website**
 
-- 🌱 I’m currently learning **Software Engineering**
+- 🌱 I’m currently learning **JAVAFX and Gradle**
 
 - 👯 I’m looking to collaborate on **small and interesting projects**
 
