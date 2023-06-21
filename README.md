@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yufannnn&label=Profile%20views&color=0e75b6&style=flat" alt="yufannnn" /> </p>
 
-- 🔭 I’m currently working on **CS2103T Team Project**
+- 🔭 I’m currently working on **UROP**
 
-- 🌱 I’m currently learning **UML**
+- 🌱 I’m currently learning **LLM**
 
 - 👯 I’m looking to collaborate on **small and interesting projects**
 
