@@ -1,13 +1,13 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif">
 
 <h1 align="center">Hi 👋, I'm Zhu Yufan</h1>
-<h3 align="center">A Year 2 Computer Science Student in National University of Singapore</h3>
+<h3 align="center">Year 3 Computer Science Student in National University of Singapore</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yufannnn&label=Profile%20views&color=0e75b6&style=flat" alt="yufannnn" /> </p>
 
 - 🔭 I’m currently working on **UROP**
 
-- 🌱 I’m currently learning **LLM**
+- 🌱 I’m currently learning **SVM**
 
 - 👯 I’m looking to collaborate on **small and interesting projects**
 
