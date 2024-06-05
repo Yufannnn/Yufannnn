@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yufannnn&label=Profile%20views&color=0e75b6&style=flat" alt="yufannnn" /> </p>
 
-- 🔭 I’m currently working on **FYP**
+- 🔭 I’m currently working on my **FYP on Video Analysis of Basketball Games**
 
 - 🌱 I’m currently learning **NLP and Quantum ML**
 
