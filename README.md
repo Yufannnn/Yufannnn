@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on my **FYP on Video Analysis of Basketball Games**
 
-- 🌱 I’m currently learning **NLP and Quantum ML**
+- 🌱 I’m currently learning **Quantum ML and Mamba**
 
-- 👯 I’m looking to collaborate on **interesting research projects**
+- 👯 I’m looking to collaborate on **interesting AI research projects**
 
 - 📫 How to reach me **e0773591@u.nus.edu**
 
