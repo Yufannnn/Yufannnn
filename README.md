@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yufannnn&label=Profile%20views&color=0e75b6&style=flat" alt="yufannnn" /> </p>
 
-- 🔭 I’m currently working on my **FYP on Video Analysis of Basketball Games**
+- 🔭 I’m currently working on my **FYP on Privacy Preserving Machine Learning**
 
-- 🌱 I’m currently learning **Quantum ML and Mamba**
+- 🌱 I’m currently learning **Quantum ML and Mamba Model**
 
-- 👯 I’m looking to collaborate on **interesting AI research projects**
+- 👯 I’m looking to collaborate on **interesting AI\ML projects**
 
 - 📫 How to reach me **e0773591@u.nus.edu**
 
