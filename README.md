@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Privacy Preserving Machine Learning**
 
-- 🌱 I’m currently learning **Quantum ML and Mamba Model**
+- 🌱 I’m currently learning **Quantum ML and Differential Privacy**
 
 - 👯 I’m looking to collaborate on **interesting AI\ML research projects**
 
