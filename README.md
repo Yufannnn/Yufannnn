@@ -9,7 +9,9 @@
 <a href="https://scholar.google.com/citations?user=zbe0xWAAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
 <a href="https://www.linkedin.com/in/yufan-zhu-36024a225/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="./resume/cv-llt.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Résumé" /></a>
-<a href="mailto:e0773591@u.nus.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://huggingface.co/HenryZYF"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
+<a href="mailto:yufan.zhu@u.nus.edu"><img src="https://img.shields.io/badge/NUS%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="NUS email" /></a>
+<a href="mailto:zhuyf@a-star.edu.sg"><img src="https://img.shields.io/badge/A%2ASTAR%20Email-163f63?style=for-the-badge&logo=gmail&logoColor=white" alt="A*STAR email" /></a>
 
 <br/><br/>
 
@@ -24,9 +26,9 @@ class Yufan:
     role = "Computer Science PhD Student @ NUS"
     mission = "Make LLM systems secure, private, and trustworthy"
     research = {
-        "systems_security": ["LLM serving", "side channels", "model extraction"],
-        "private_ml": ["MPC", "homomorphic encryption", "differential privacy"],
-        "trustworthy_ai": ["attack surfaces", "defenses", "verification"],
+        "llms_and_nlp": ["LLM security", "privacy evaluation", "natural language processing"],
+        "data_privacy": ["quasi-evidence groups", "policy-conditioned detection", "sanitization"],
+        "ppml_and_crypto": ["private inference", "secure computation", "applied cryptography"],
     }
     open_to = "Research collaborations and interesting systems problems"
 ```
@@ -35,15 +37,29 @@ I study the gap between how AI systems are *supposed* to behave and what happens
 
 ## Research radar
 
-| 🛡️ LLM systems security | 🔐 Private inference | 🧭 Trustworthy AI |
+| 🛡️ LLMs and NLP | 🧭 Data privacy and sanitization | 🔐 PPML and applied cryptography |
 | :--- | :--- | :--- |
-| Prompt leakage, KV-cache side channels, model extraction, and serving-time attack surfaces | Secure computation for practical LLM inference with MPC, HE, and DP | Defenses that are measurable, reproducible, and grounded in real systems |
+| LLM security, privacy evaluation, and natural language processing | Jointly revealing evidence, policy-conditioned privacy detection, and sanitization | Private inference and secure computation for practical machine learning |
 
-> **Currently:** exploring secure LLM serving and privacy-preserving inference. If you are working nearby, [let's talk](mailto:e0773591@u.nus.edu).
+> **Currently:** exploring LLM privacy evaluation and privacy-preserving inference. If you are working nearby, [let's talk](mailto:yufan.zhu@u.nus.edu).
 
 ## Featured GitHub work
 
 <table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Yufannnn/QuasiLeak-Bench">QuasiLeak-Bench</a></h3>
+      <p>A benchmark for policy-conditioned quasi-evidence group recovery. ARR submission.</p>
+      <p><a href="https://arxiv.org/abs/2610.21333">arXiv</a> · <a href="https://arxiv.org/pdf/2610.21333">PDF</a> · <a href="https://github.com/Yufannnn/QuasiLeak-Bench">Code</a> · <a href="https://huggingface.co/datasets/HenryZYF/QuasiLeak-Bench">Dataset</a> · <a href="https://yufannnn.github.io/QuasiLeak-Bench/">Leaderboard</a></p>
+      <p><code>LLMs</code> <code>NLP</code> <code>Data Privacy</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Yufannnn/FESC">FESC</a></h3>
+      <p>Private long-context inference with encrypted selective state-space models. NDSS submission.</p>
+      <p><a href="https://arxiv.org/abs/2608.17442">arXiv</a> · <a href="https://arxiv.org/pdf/2608.17442">PDF</a> · <a href="https://github.com/Yufannnn/FESC">Code</a></p>
+      <p><code>PPML</code> <code>Secure Inference</code> <code>GPU</code></p>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Yufannnn/EncFormer">🔐 EncFormer</a></h3>
