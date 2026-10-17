@@ -102,10 +102,10 @@ I study the gap between how AI systems are *supposed* to behave and what happens
 
 <div align="center">
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yufannnn&theme=github_dark" alt="Yufan's GitHub profile summary" />
+<img width="98%" src="./assets/github-pulse/profile.svg" alt="Yufan's authored commits over the past year, including private work, and current NUS and A*STAR email addresses" />
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yufannnn&theme=github_dark" alt="Yufan's GitHub statistics" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yufannnn&theme=github_dark&utcOffset=8" alt="Yufan's productive coding time" />
+<img width="49%" src="./assets/github-pulse/stats.svg" alt="Deduplicated authored commits on default branches of owned repositories, including public and private work" />
+<img width="49%" src="./assets/github-pulse/hours.svg" alt="Authored commit times in Singapore time over the past year" />
 
 </div>
 
