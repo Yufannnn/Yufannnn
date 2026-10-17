@@ -1,7 +1,8 @@
 # CV source
 
-`cv.tex` is the editable source for `cv-llt.pdf`, rebuilt from the previously
-published CV and updated in October 2026 with QuasiLeak-Bench and FESC.
+`cv.tex` is the editable source for `cv-llt.pdf`. Research publications and
+manuscripts are listed separately from coursework in Project Experience,
+including AskOrAct (CS6208).
 
 Build with a TeX installation that includes XeLaTeX:
 
