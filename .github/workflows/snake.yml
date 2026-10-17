@@ -14,14 +14,13 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: Platane/snk@v3
-        id: snake-gif
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
         with:
-          github_user_name: Yufannnn
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=#12D640&color_dots=#0d1117,#0e3b1f,#12d640,#7af0a3,#c8ffd9
+          node-version: 24
+          cache: npm
+      - run: npm ci --ignore-scripts --no-audit --no-fund
+      - run: npm run update:snake
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:

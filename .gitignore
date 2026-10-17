@@ -4,3 +4,5 @@ resume/*.out
 resume/*.fls
 resume/*.fdb_latexmk
 resume/*.xdv
+node_modules/
+dist/

@@ -109,14 +109,14 @@ I study the gap between how AI systems are *supposed* to behave and what happens
 
 </div>
 
-## Contributions, in motion
+## Commits, in motion
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yufannnn/Yufannnn/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yufannnn/Yufannnn/output/github-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Yufannnn/Yufannnn/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yufannnn/Yufannnn/output/commit-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yufannnn/Yufannnn/output/commit-snake.svg" />
+  <img alt="Animated calendar of authored commits, including public and private work, using the same snapshot as the profile cards" src="https://raw.githubusercontent.com/Yufannnn/Yufannnn/output/commit-snake.svg" />
 </picture>
 
 <br/>

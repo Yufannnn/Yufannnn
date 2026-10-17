@@ -1,0 +1,10 @@
+{
+  "name": "yufannnn-profile-graphics",
+  "private": true,
+  "scripts": {
+    "update:snake": "node scripts/update_snake.mjs"
+  },
+  "devDependencies": {
+    "generate-snake-animation": "3.5.0"
+  }
+}

@@ -1,6 +1,7 @@
 """Refresh GitHub-hosted profile cards using the signed-in owner's repositories.
 
-Run with `python scripts/update_profile_cards.py` after signing in with `gh`.
+Run `npm ci` once, then `python scripts/update_profile_cards.py` after signing
+in with `gh`. The snake animation is regenerated from the same snapshot.
 Only aggregate counts are written; private repository names and commit IDs stay
 in memory. Counts cover authored commits on default branches, deduplicated across
 repositories, rather than GitHub's separately defined profile contributions.
@@ -166,6 +167,7 @@ def main():
                  "hourly_commits_sgt": {str(h): hours[h] for h in range(24)}}
     (out / "activity.json").write_text(json.dumps(aggregate, indent=2) + "\n", encoding="utf-8")
     print(f"Refreshed cards: {total:,} unique commits ({private:,} private-only), {active} active repositories.")
+    subprocess.run(["node", str(ROOT / "scripts" / "update_snake.mjs")], cwd=ROOT, check=True)
 
 
 if __name__ == "__main__":
