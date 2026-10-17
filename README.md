@@ -13,9 +13,6 @@
 <a href="mailto:yufan.zhu@u.nus.edu"><img src="https://img.shields.io/badge/NUS%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="NUS email" /></a>
 <a href="mailto:zhuyf@a-star.edu.sg"><img src="https://img.shields.io/badge/A%2ASTAR%20Email-163f63?style=for-the-badge&logo=gmail&logoColor=white" alt="A*STAR email" /></a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Yufannnn&amp;style=flat-square&amp;color=12d640&amp;label=Profile+views" alt="Profile views" />
 
 </div>
 
