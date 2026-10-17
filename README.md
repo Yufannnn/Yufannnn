@@ -45,13 +45,13 @@ I study the gap between how AI systems are *supposed* to behave and what happens
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Yufannnn/QuasiLeak-Bench">QuasiLeak-Bench</a></h3>
+      <h3><a href="https://github.com/Yufannnn/QuasiLeak-Bench">🔎 QuasiLeak-Bench</a></h3>
       <p>A benchmark for policy-conditioned quasi-evidence group recovery. ARR submission.</p>
       <p><a href="https://arxiv.org/abs/2610.21333">arXiv</a> · <a href="https://arxiv.org/pdf/2610.21333">PDF</a> · <a href="https://github.com/Yufannnn/QuasiLeak-Bench">Code</a> · <a href="https://huggingface.co/datasets/HenryZYF/QuasiLeak-Bench">Dataset</a> · <a href="https://yufannnn.github.io/QuasiLeak-Bench/">Leaderboard</a></p>
       <p><code>LLMs</code> <code>NLP</code> <code>Data Privacy</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Yufannnn/FESC">FESC</a></h3>
+      <h3><a href="https://github.com/Yufannnn/FESC">🛡️ FESC</a></h3>
       <p>Private long-context inference with encrypted selective state-space models. NDSS submission.</p>
       <p><a href="https://arxiv.org/abs/2608.17442">arXiv</a> · <a href="https://arxiv.org/pdf/2608.17442">PDF</a> · <a href="https://github.com/Yufannnn/FESC">Code</a></p>
       <p><code>PPML</code> <code>Secure Inference</code> <code>GPU</code></p>
