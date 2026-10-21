@@ -52,7 +52,7 @@ I study the gap between how AI systems are *supposed* to behave and what happens
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Yufannnn/FESC">🛡️ FESC</a></h3>
-      <p>Private long-context inference with encrypted selective state-space models. NDSS submission.</p>
+      <p>Private long-context inference with encrypted selective state-space models.</p>
       <p><a href="https://arxiv.org/abs/2608.17442">arXiv</a> · <a href="https://arxiv.org/pdf/2608.17442">PDF</a> · <a href="https://github.com/Yufannnn/FESC">Code</a></p>
       <p><code>PPML</code> <code>Secure Inference</code> <code>GPU</code></p>
     </td>
