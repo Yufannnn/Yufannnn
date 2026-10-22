@@ -1,0 +1,83 @@
+\documentclass[a4paper,skipsamekey,11pt,english]{curve}
+
+\PassOptionsToPackage{style=ieee,sorting=ydnt,uniquename=init,defernumbers=true}{biblatex}
+
+\usepackage{settings}
+
+\DefineBibliographyStrings{english}{url={\textsc{url}}}
+
+\addbibresource{bib/cite.bib}
+
+\mynames{Lim/Lian\bibnamedelima Tze,
+  Wong/Lian\bibnamedelima Tze,
+  Lim/Tracy,
+  Lim/L.\bibnamedelimi T.}
+
+\ifxetexorluatex
+  \usepackage{fontspec}
+  \usepackage[p,osf,swashQ]{cochineal}
+  \usepackage[medium,bold]{cabin}
+  \usepackage[varqu,varl,scale=0.9]{zi4}
+\else
+  \usepackage[T1]{fontenc}
+  \usepackage[p,osf,swashQ]{cochineal}
+  \usepackage{cabin}
+  \usepackage[varqu,varl,scale=0.9]{zi4}
+\fi
+
+\includecomment{fullonly}
+
+\vspace{-10ex}
+\leftheader{%
+  {\LARGE\bfseries\sffamily Zhu Yufan}
+
+  \makefield{\faEnvelope[regular]}{\href{mailto:e0773591@u.nus.edu}{\texttt{e0773591@u.nus.edu}}}
+  \makefield{\faLinkedin}{\href{https://www.linkedin.com/in/yufan-zhu-36024a225/}{\texttt{yufan-zhu-36024a225}}}
+  % \makefield{\faGithub}{\href{https://github.com/Yufannnn}{\texttt{Yufannnn}}}
+  \makefield{\faGlobe}{\url{https://yufannnn.github.io/}}
+}
+
+\vspace{-10ex}
+\rightheader{~}
+\begin{fullonly}
+\photo[r]{img/icon}
+\photoscale{0.12}
+\end{fullonly}
+
+\title{Curriculum Vitae}
+
+% Adjustments for tighter spacing
+\renewcommand{\baselinestretch}{0.65} % Adjust line spacing
+
+% Reduce space after rubric headers and between items
+\setlength{\rubricspace}{0.2ex}
+\setlength{\subrubricspace}{0.2ex}
+\setlength{\subrubricbeforespace}{0.2ex}
+\setlength{\parskip}{0ex} % Reduce space between paragraphs
+
+\begin{document}
+\makeheaders[c]
+
+\vspace{-4ex} % Reduce space before each rubric
+\makerubric{sections/education}
+\vspace{-4ex} % Reduce space before each rubric
+\makerubric{sections/awards}
+\vspace{-4ex} % Reduce space before each rubric
+\makerubric{sections/publications}
+\vspace{-4ex} % Reduce space before each rubric
+\makerubric{sections/service}
+\vspace{-4ex} % Reduce space before each rubric
+\makerubric{sections/research}
+\vspace{-4ex} % Reduce space before each rubric
+\makerubric{sections/employment}
+\vspace{-4ex} % Reduce space before each rubric
+\makerubric{sections/relevant}
+\vspace{-4ex} % Reduce space before each rubric
+\makerubric{sections/project}
+\vspace{-4ex} % Reduce space before each rubric
+\makerubric{sections/volunteering}
+\vspace{-4ex} % Reduce space before each rubric
+% \makerubric{sections/skills}
+% \makerubric{sections/available}
+
+\end{document}

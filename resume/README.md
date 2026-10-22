@@ -11,5 +11,7 @@ cd resume
 latexmk -xelatex -interaction=nonstopmode -halt-on-error -jobname=cv-llt cv.tex
 ```
 
-The same PDF is published at the repository root as `Zhu_Yufan_Resume.pdf` and
-as `cv-llt.pdf` in the personal website repository.
+The same PDF is published as `cv-llt.pdf` in the personal website repository.
+
+`cv-llt.tex`, `settings.sty`, `bib/`, `img/`, and `sections/` preserve the
+earlier CV template. The current CV is built from `cv.tex` using the command above.
